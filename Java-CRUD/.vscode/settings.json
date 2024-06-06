@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src/cpsc4620"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Library/Java/Ectension/mysql-connector-j-8.3.0/*.jar"
+    ]
+}
